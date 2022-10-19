@@ -1,0 +1,325 @@
+{
+  "@type": "House",
+  "floors": [
+    {
+      "@type": "Floor",
+      "rooms": [
+        {
+          "@type": "Room",
+          "type": "KITCHEN",
+          "name": "Kitchen",
+          "temperature": 22,
+          "items": [
+            {
+              "@type": "CoffeeMachine",
+              "name": "Coffee Machine",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 100,
+              "PSIdle": 50
+            },
+            {
+              "@type": "Fridge",
+              "name": "Fridge",
+              "isON": true,
+              "functionalityPercentage": 100,
+              "PSActive": 120,
+              "PSIdle": 120
+            },
+            {
+              "@type": "DoorOpener",
+              "name": "Kitchen door opener",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Stove",
+              "name": "Stove",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 80,
+              "PSIdle": 5
+            },
+            {
+              "@type": "Blinds",
+              "name": "Kitchen blinds",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Light",
+              "name": "Kitchen light",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 15,
+              "PSIdle": 0
+            }
+          ]
+        },
+        {
+          "@type": "Room",
+          "type": "STORAGEROOM",
+          "name": "Storage room",
+          "temperature": 22,
+          "items": [
+            {
+              "@type": "Light",
+              "name": "Storage room light",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 15,
+              "PSIdle": 0
+            }
+          ]
+        },
+        {
+          "@type": "Room",
+          "type": "HALL",
+          "name": "Hall",
+          "temperature": 22,
+          "items": [
+            {
+              "@type": "DoorOpener",
+              "name": "Hall door opener",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Light",
+              "name": "Hall light",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 15,
+              "PSIdle": 0
+            }
+          ]
+        }
+      ],
+      "level": 1
+    },
+    {
+      "@type": "Floor",
+      "rooms": [
+        {
+          "@type": "Room",
+          "type": "BATHROOM",
+          "name": "Bathroom 1",
+          "temperature": 22,
+          "items": [
+            {
+              "@type": "Light",
+              "name": "Bathroom light 1",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 15,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Blinds",
+              "name": "Bathroom blinds 1",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Toilet",
+              "name": "Toilet 1",
+              "isON": true,
+              "functionalityPercentage": 100,
+              "PSActive": 10,
+              "PSIdle": 0
+            },
+            {
+              "@type": "WashingMachine",
+              "name": "Washing machine",
+              "isON": true,
+              "functionalityPercentage": 100,
+              "PSActive": 60,
+              "PSIdle": 10
+            }
+          ]
+        },
+        {
+          "@type": "Room",
+          "type": "LIVINGROOM",
+          "name": "Living Room",
+          "temperature": 22,
+          "items": [
+            {
+              "@type": "Light",
+              "name": "Living room light",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 15,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Blinds",
+              "name": "Living room blinds",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "DoorOpener",
+              "name": "Living room door opener",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "TV",
+              "name": "Television",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 30,
+              "PSIdle": 0
+            }
+          ]
+        },
+        {
+          "@type": "Room",
+          "type": "BATHROOM",
+          "name": "Bathroom 2",
+          "temperature": 22,
+          "items": [
+            {
+              "@type": "Light",
+              "name": "Bathroom light 2",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 15,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Blinds",
+              "name": "Bathroom blinds 2",
+              "isON": false,
+              "functionalityPercentage": 100,
+              "PSActive": 20,
+              "PSIdle": 0
+            },
+            {
+              "@type": "Toilet",
+              "name": "Toilet 2",
+              "isON": true,
+              "functionalityPercentage": 100,
+              "PSActive": 10,
+              "PSIdle": 0
+            }
+          ]
+        }
+      ],
+      "level": 2
+    }
+  ],
+  "beings": [
+    {
+      "@type": "Human",
+      "personalInfo": {
+        "@type": "HumanInfo",
+        "firstName": "Rick",
+        "lastName": "Sanchez",
+        "age": 70,
+        "type": "ELDER",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Human",
+      "personalInfo": {
+        "@type": "HumanInfo",
+        "firstName": "Jerry",
+        "lastName": "Smith",
+        "age": 35,
+        "type": "ADULT",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Human",
+      "personalInfo": {
+        "@type": "HumanInfo",
+        "firstName": "Beth",
+        "lastName": "Smith",
+        "age": 34,
+        "type": "ADULT",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Human",
+      "personalInfo": {
+        "@type": "HumanInfo",
+        "firstName": "Summer",
+        "lastName": "Smith",
+        "age": 17,
+        "type": "CHILD",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Human",
+      "personalInfo": {
+        "@type": "HumanInfo",
+        "firstName": "Morty",
+        "lastName": "Smith",
+        "age": 14,
+        "type": "CHILD",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Human",
+      "personalInfo": {
+        "@type": "HumanInfo",
+        "firstName": "Jessica",
+        "lastName": "White",
+        "age": 14,
+        "type": "CHILD",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Animal",
+      "personalInfo": {
+        "@type": "AnimalInfo",
+        "name": "Snuffles",
+        "age": 3,
+        "type": "DOG",
+        "breed": "Bolognese",
+        "alive": true
+      }
+    },
+    {
+      "@type": "Animal",
+      "personalInfo": {
+        "@type": "AnimalInfo",
+        "name": "Talking Cat",
+        "age": 5,
+        "type": "CAT",
+        "breed": "Persian",
+        "alive": true
+      }
+    },{
+      "@type": "Animal",
+      "personalInfo": {
+        "@type": "AnimalInfo",
+        "name": "Squanchy",
+        "age": 3,
+        "type": "CAT",
+        "breed": "Weird",
+        "alive": true
+      }
+    }
+  ]
+}

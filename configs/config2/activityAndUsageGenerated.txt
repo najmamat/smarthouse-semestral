@@ -1,0 +1,196 @@
+Abraham Simpson usage:
+	Kitchen light -- 5 times.
+	Kids room blinds -- 1 times.
+	Coffee Machine -- 6 times.
+	Hall light -- 2 times.
+	Washing machine -- 1 times.
+	Bathroom light level 1 -- 3 times.
+	Kitchen light -- 4 times.
+	Stove -- 3 times.
+	Garage Fridge -- 7 times.
+	Toilet 1 -- 5 times.
+	Garage light -- 2 times.
+	Kids TV -- 3 times.
+	Toilet bathroom level 2 -- 3 times.
+	Storage room light 2 -- 4 times.
+	Fridge -- 4 times.
+	Bathroom light level 2 -- 5 times.
+	Bathroom blinds level 1 -- 6 times.
+	Heater -- 2 times.
+	Bathroom level 1 door opener -- 3 times.
+	Hall door opener -- 3 times.
+	Kitchen light -- 4 times.
+
+Maggie Simpson usage:
+	Kitchen light -- 4 times.
+	Kids room blinds -- 2 times.
+	Hall light -- 2 times.
+	Coffee Machine -- 8 times.
+	Washing machine -- 7 times.
+	Bathroom light level 1 -- 3 times.
+	Kitchen light -- 2 times.
+	Stove -- 4 times.
+	Garage Fridge -- 3 times.
+	Toilet 1 -- 1 times.
+	Kids TV -- 3 times.
+	Storage room light 2 -- 3 times.
+	Toilet bathroom level 2 -- 2 times.
+	Bathroom light level 2 -- 3 times.
+	Fridge -- 1 times.
+	Bathroom level 1 door opener -- 6 times.
+	Heater -- 6 times.
+	Bathroom blinds level 1 -- 1 times.
+	Hall door opener -- 3 times.
+	Kitchen light -- 7 times.
+
+Homer Simpson usage:
+	Kitchen light -- 6 times.
+	Kids room blinds -- 4 times.
+	Coffee Machine -- 5 times.
+	Washing machine -- 2 times.
+	Bathroom light level 1 -- 1 times.
+	Kitchen light -- 3 times.
+	Stove -- 1 times.
+	Garage Fridge -- 1 times.
+	Toilet 1 -- 4 times.
+	Kids TV -- 5 times.
+	Garage light -- 4 times.
+	Toilet bathroom level 2 -- 4 times.
+	Storage room light 2 -- 1 times.
+	Fridge -- 1 times.
+	Bathroom light level 2 -- 4 times.
+	Heater -- 4 times.
+	Bathroom level 1 door opener -- 5 times.
+	Bathroom blinds level 1 -- 1 times.
+	Hall door opener -- 6 times.
+	Kitchen light -- 1 times.
+
+Marge Simpson usage:
+	Kitchen light -- 2 times.
+	Kids room blinds -- 2 times.
+	Hall light -- 3 times.
+	Washing machine -- 3 times.
+	Bathroom light level 1 -- 3 times.
+	Kitchen light -- 3 times.
+	Stove -- 1 times.
+	Garage Fridge -- 4 times.
+	Toilet 1 -- 2 times.
+	Kids TV -- 3 times.
+	Garage light -- 2 times.
+	Toilet bathroom level 2 -- 5 times.
+	Storage room light 2 -- 6 times.
+	Bathroom light level 2 -- 5 times.
+	Fridge -- 3 times.
+	Heater -- 7 times.
+	Bathroom blinds level 1 -- 6 times.
+	Bathroom level 1 door opener -- 6 times.
+	Hall door opener -- 5 times.
+	Kitchen light -- 1 times.
+
+Santa's Little Helper usage:
+	Kitchen light -- 3 times.
+	Kids room blinds -- 6 times.
+	Coffee Machine -- 3 times.
+	Hall light -- 4 times.
+	Washing machine -- 9 times.
+	Bathroom light level 1 -- 4 times.
+	Kitchen light -- 3 times.
+	Stove -- 1 times.
+	Garage Fridge -- 3 times.
+	Toilet 1 -- 1 times.
+	Kids TV -- 3 times.
+	Garage light -- 6 times.
+	Toilet bathroom level 2 -- 4 times.
+	Storage room light 2 -- 4 times.
+	Bathroom light level 2 -- 4 times.
+	Fridge -- 2 times.
+	Bathroom blinds level 1 -- 2 times.
+	Heater -- 1 times.
+	Hall door opener -- 2 times.
+	Kitchen light -- 2 times.
+
+Lisa Simpson usage:
+	Kitchen light -- 2 times.
+	Kids room blinds -- 4 times.
+	Hall light -- 6 times.
+	Coffee Machine -- 1 times.
+	Bathroom light level 1 -- 3 times.
+	Kitchen light -- 4 times.
+	Stove -- 3 times.
+	Toilet 1 -- 8 times.
+	Garage light -- 3 times.
+	Kids TV -- 10 times.
+	Toilet bathroom level 2 -- 2 times.
+	Storage room light 2 -- 1 times.
+	Bathroom light level 2 -- 4 times.
+	Fridge -- 1 times.
+	Bathroom blinds level 1 -- 2 times.
+	Heater -- 1 times.
+	Hall door opener -- 5 times.
+	Kitchen light -- 5 times.
+
+Snowball usage:
+	Kitchen light -- 5 times.
+	Kids room blinds -- 2 times.
+	Coffee Machine -- 1 times.
+	Hall light -- 1 times.
+	Washing machine -- 4 times.
+	Bathroom light level 1 -- 1 times.
+	Kitchen light -- 3 times.
+	Stove -- 4 times.
+	Garage Fridge -- 4 times.
+	Toilet 1 -- 3 times.
+	Kids TV -- 3 times.
+	Garage light -- 2 times.
+	Toilet bathroom level 2 -- 5 times.
+	Storage room light 2 -- 1 times.
+	Fridge -- 8 times.
+	Bathroom light level 2 -- 1 times.
+	Bathroom blinds level 1 -- 3 times.
+	Bathroom level 1 door opener -- 3 times.
+	Heater -- 2 times.
+	Hall door opener -- 5 times.
+	Kitchen light -- 4 times.
+
+Bart Simpson usage:
+	Kids room blinds -- 5 times.
+	Hall light -- 3 times.
+	Coffee Machine -- 3 times.
+	Washing machine -- 3 times.
+	Kitchen light -- 4 times.
+	Stove -- 2 times.
+	Garage Fridge -- 4 times.
+	Toilet 1 -- 4 times.
+	Kids TV -- 3 times.
+	Garage light -- 3 times.
+	Storage room light 2 -- 4 times.
+	Toilet bathroom level 2 -- 4 times.
+	Fridge -- 5 times.
+	Bathroom light level 2 -- 4 times.
+	Bathroom level 1 door opener -- 7 times.
+	Bathroom blinds level 1 -- 3 times.
+	Heater -- 1 times.
+	Hall door opener -- 3 times.
+	Kitchen light -- 3 times.
+
+Plopper usage:
+	Kitchen light -- 4 times.
+	Kids room blinds -- 6 times.
+	Coffee Machine -- 3 times.
+	Hall light -- 4 times.
+	Washing machine -- 1 times.
+	Bathroom light level 1 -- 5 times.
+	Kitchen light -- 3 times.
+	Stove -- 2 times.
+	Garage Fridge -- 2 times.
+	Toilet 1 -- 5 times.
+	Kids TV -- 3 times.
+	Garage light -- 3 times.
+	Storage room light 2 -- 1 times.
+	Toilet bathroom level 2 -- 3 times.
+	Bathroom light level 2 -- 6 times.
+	Fridge -- 2 times.
+	Bathroom blinds level 1 -- 2 times.
+	Bathroom level 1 door opener -- 2 times.
+	Hall door opener -- 3 times.
+	Kitchen light -- 4 times.

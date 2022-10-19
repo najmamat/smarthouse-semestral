@@ -1,0 +1,22 @@
+Kitchen light: 2910
+Kitchen light: 3000
+Kitchen light: 3000
+Fridge: 24000
+Coffee Machine: 19900
+Stove: 15925
+Garage light: 2820
+Garage Fridge: 24000
+Heater: 16000
+Hall door opener: 3920
+Hall light: 2955
+Kids TV: 5888
+Kids room blinds: 4000
+Bathroom light level 1: 3000
+Bathroom blinds level 1: 4000
+Toilet 1: 2000
+Washing machine: 12000
+Bathroom level 1 door opener: 4000
+Bathroom light level 2: 3000
+Toilet bathroom level 2: 1900
+Storage room light 2: 3000
+TOTAL CONSUMPTION: 161218

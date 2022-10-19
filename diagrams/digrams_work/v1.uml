@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>cz.cvut.fel.omo.items.device.coffeemachine</OriginalElement>
+  <nodes>
+    <node x="981.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.light.LightImpl</node>
+    <node x="836.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.heater.HeaterImpl</node>
+    <node x="692.7499999999999" y="168.0">cz.cvut.fel.omo.items.device.heater.Heater</node>
+    <node x="1251.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.toilet.ToiletImpl</node>
+    <node x="1114.8855421686746" y="79.0">cz.cvut.fel.omo.items.device.DeviceAPI</node>
+    <node x="694.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.fridge.FridgeImpl</node>
+    <node x="-139.0000000000001" y="168.0">cz.cvut.fel.omo.items.sportitem.Skis</node>
+    <node x="1260.7756024096384" y="168.0">cz.cvut.fel.omo.items.device.stove.Stove</node>
+    <node x="200.1506024096384" y="257.0">cz.cvut.fel.omo.items.device.coffeemachine.CoffeeMachineImpl</node>
+    <node x="-22.000000000000114" y="168.0">cz.cvut.fel.omo.items.sportitem.Bicycle</node>
+    <node x="2018.25" y="257.0">cz.cvut.fel.omo.items.device.window.opener.WindowOpenerImpl</node>
+    <node x="825.3749999999999" y="168.0">cz.cvut.fel.omo.items.device.light.Light</node>
+    <node x="602.2605421686746" y="0.0">cz.cvut.fel.omo.items.HouseItem</node>
+    <node x="1057.3855421686746" y="365.0">cz.cvut.fel.omo.items.device.Device</node>
+    <node x="1630.25" y="168.0">cz.cvut.fel.omo.items.device.washingmachine.WashingMachine</node>
+    <node x="0.0" y="331.0">cz.cvut.fel.omo.items.device.DeviceFactory</node>
+    <node x="1513.25" y="168.0">cz.cvut.fel.omo.items.device.tv.TV</node>
+    <node x="183.6249999999999" y="168.0">cz.cvut.fel.omo.items.device.coffeemachine.CoffeeMachine</node>
+    <node x="-90.00000000000006" y="79.0">cz.cvut.fel.omo.items.sportitem.SportItem</node>
+    <node x="380.9999999999999" y="168.0">cz.cvut.fel.omo.items.device.door.DoorOpener</node>
+    <node x="1843.25" y="168.0">cz.cvut.fel.omo.items.device.window.blinds.WindowBlinds</node>
+    <node x="1114.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.stove.StoveImpl</node>
+    <node x="1389.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.tv.TVImpl</node>
+    <node x="460.9006024096384" y="257.0">cz.cvut.fel.omo.items.device.door.DoorOpenerImpl</node>
+    <node x="2038.25" y="168.0">cz.cvut.fel.omo.items.device.window.opener.WindowOpener</node>
+    <node x="1382.6506024096384" y="168.0">cz.cvut.fel.omo.items.device.toilet.Toilet</node>
+    <node x="1506.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.washingmachine.WashingMachineImpl</node>
+    <node x="1719.8855421686746" y="257.0">cz.cvut.fel.omo.items.device.window.blinds.WindowBlindsImpl</node>
+    <node x="188.0" y="331.0">cz.cvut.fel.omo.items.device.coffeemachine.state</node>
+    <node x="561.3749999999999" y="168.0">cz.cvut.fel.omo.items.device.fridge.Fridge</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="cz.cvut.fel.omo.items.device.window.opener.WindowOpenerImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="-45.99999999999977" y="-14.5" />
+      <point x="2064.25" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.heater.HeaterImpl" target="cz.cvut.fel.omo.items.device.heater.Heater" relationship="REALIZATION">
+      <point x="-31.25" y="-14.5" />
+      <point x="868.1355421686746" y="227.0" />
+      <point x="740.2499999999999" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.tv.TVImpl" target="cz.cvut.fel.omo.items.device.tv.TV" relationship="REALIZATION">
+      <point x="24.25" y="-14.5" />
+      <point x="1462.6355421686746" y="227.0" />
+      <point x="1546.75" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.washingmachine.WashingMachineImpl" target="cz.cvut.fel.omo.items.device.washingmachine.WashingMachine" relationship="REALIZATION">
+      <point x="48.25" y="-14.5" />
+      <point x="1651.6355421686746" y="227.0" />
+      <point x="1711.75" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.stove.Stove" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1304.2756024096384" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.DeviceAPI" target="cz.cvut.fel.omo.items.HouseItem" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1173.3855421686746" y="54.0" />
+      <point x="693.7605421686746" y="54.0" />
+      <point x="30.5" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.tv.TV" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1546.75" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.door.DoorOpenerImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="40.75" y="-14.5" />
+      <point x="583.1506024096384" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.light.LightImpl" target="cz.cvut.fel.omo.items.device.light.Light" relationship="REALIZATION">
+      <point x="-28.25" y="-14.5" />
+      <point x="1010.1355421686746" y="217.0" />
+      <point x="866.8749999999999" y="217.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.window.blinds.WindowBlindsImpl" target="cz.cvut.fel.omo.items.device.window.blinds.WindowBlinds" relationship="REALIZATION">
+      <point x="43.75" y="-14.5" />
+      <point x="1851.1355421686746" y="227.0" />
+      <point x="1915.75" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.coffeemachine.CoffeeMachineImpl" target="cz.cvut.fel.omo.items.device.coffeemachine.CoffeeMachine" relationship="REALIZATION">
+      <point x="-45.0" y="-14.5" />
+      <point x="245.1506024096384" y="237.0" />
+      <point x="258.6249999999999" y="237.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.window.blinds.WindowBlindsImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="-43.75" y="-14.5" />
+      <point x="1763.6355421686746" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.window.blinds.WindowBlinds" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1915.75" y="138.0" />
+      <point x="1228.8855421686744" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.washingmachine.WashingMachineImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="-48.25" y="-14.5" />
+      <point x="1555.1355421686746" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.coffeemachine.CoffeeMachine" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="258.6249999999999" y="138.0" />
+      <point x="1228.8855421686744" y="138.0" />
+      <point x="1228.8855421686744" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.washingmachine.WashingMachine" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1711.75" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.stove.StoveImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="-29.25" y="-14.5" />
+      <point x="1144.1355421686746" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.window.opener.WindowOpenerImpl" target="cz.cvut.fel.omo.items.device.window.opener.WindowOpener" relationship="REALIZATION">
+      <point x="46.00000000000023" y="-14.5" />
+      <point x="2156.25" y="237.0" />
+      <point x="2115.25" y="237.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.Device" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1104.8855421686746" y="128.0" />
+      <point x="1144.1355421686746" y="128.0" />
+      <point x="-29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.tv.TVImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="-24.25" y="-14.5" />
+      <point x="1414.1355421686746" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.toilet.Toilet" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="1426.6506024096384" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.window.opener.WindowOpener" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="2.2737367544323206E-13" y="-14.5" />
+      <point x="2115.25" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.heater.HeaterImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="31.25" y="-14.5" />
+      <point x="930.6355421686746" y="309.0" />
+      <point x="1104.8855421686746" y="309.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.sportitem.SportItem" target="cz.cvut.fel.omo.items.HouseItem" relationship="REALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-32.00000000000006" y="54.0" />
+      <point x="632.7605421686746" y="54.0" />
+      <point x="-30.5" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.sportitem.Skis" target="cz.cvut.fel.omo.items.sportitem.SportItem" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="-101.50000000000011" y="148.0" />
+      <point x="-32.00000000000006" y="148.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.door.DoorOpenerImpl" target="cz.cvut.fel.omo.items.device.door.DoorOpener" relationship="REALIZATION">
+      <point x="-40.75" y="-14.5" />
+      <point x="501.6506024096384" y="227.0" />
+      <point x="447.4999999999999" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.light.LightImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="28.25" y="-14.5" />
+      <point x="1066.6355421686746" y="309.0" />
+      <point x="1104.8855421686746" y="309.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.fridge.Fridge" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="607.3749999999999" y="138.0" />
+      <point x="1228.8855421686744" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.toilet.ToiletImpl" target="cz.cvut.fel.omo.items.device.toilet.Toilet" relationship="REALIZATION">
+      <point x="29.5" y="-14.5" />
+      <point x="1340.3855421686746" y="227.0" />
+      <point x="1426.6506024096384" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.toilet.ToiletImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="-29.5" y="-14.5" />
+      <point x="1281.3855421686746" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.heater.Heater" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="740.2499999999999" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.sportitem.Bicycle" target="cz.cvut.fel.omo.items.sportitem.SportItem" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="25.999999999999886" y="148.0" />
+      <point x="-32.00000000000006" y="148.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.coffeemachine.CoffeeMachineImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="45.0" y="-14.5" />
+      <point x="335.1506024096384" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.light.Light" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="866.8749999999999" y="138.0" />
+      <point x="1228.8855421686746" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.fridge.FridgeImpl" target="cz.cvut.fel.omo.items.device.Device" relationship="GENERALIZATION">
+      <point x="30.5" y="-14.5" />
+      <point x="786.3855421686746" y="308.5" />
+      <point x="1104.8855421686746" y="308.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.door.DoorOpener" target="cz.cvut.fel.omo.items.device.DeviceAPI" relationship="INTERFACE_GENERALIZATION">
+      <point x="0.0" y="-14.5" />
+      <point x="447.4999999999999" y="138.0" />
+      <point x="1228.8855421686744" y="138.0" />
+      <point x="1228.8855421686746" y="128.0" />
+      <point x="1202.6355421686746" y="128.0" />
+      <point x="29.25" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.stove.StoveImpl" target="cz.cvut.fel.omo.items.device.stove.Stove" relationship="REALIZATION">
+      <point x="29.25" y="-14.5" />
+      <point x="1202.6355421686746" y="227.0" />
+      <point x="1304.2756024096384" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="cz.cvut.fel.omo.items.device.fridge.FridgeImpl" target="cz.cvut.fel.omo.items.device.fridge.Fridge" relationship="REALIZATION">
+      <point x="-30.5" y="-14.5" />
+      <point x="725.3855421686746" y="227.0" />
+      <point x="607.3749999999999" y="227.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="false" x="1101.5" y="180.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>Project Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

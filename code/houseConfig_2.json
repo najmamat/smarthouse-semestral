@@ -1,0 +1,336 @@
+{
+    "@type": "House",
+    "floors": [
+      {
+        "@type": "Floor",
+        "rooms": [
+          {
+            "@type": "Room",
+            "type": "KITCHEN",
+            "name": "Kitchen",
+            "temperature": 18,
+            "items": [
+  
+              {
+                "@type": "Light",
+                "name": "Kitchen light",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Light",
+                "name": "Kitchen light",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Light",
+                "name": "Kitchen light",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Fridge",
+                "name": "Fridge",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 120,
+                "PSIdle": 120
+              },
+              {
+                "@type": "CoffeeMachine",
+                "name": "Coffee Machine",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 100,
+                "PSIdle": 50
+              },
+              {
+                "@type": "Stove",
+                "name": "Stove",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 80,
+                "PSIdle": 5
+              }
+            ]
+          },
+          {
+            "@type": "Room",
+            "type": "GARAGE",
+            "name": "Garage",
+            "temperature": 17,
+            "items": [
+              {
+                "@type": "Light",
+                "name": "Garage light",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Fridge",
+                "name": "Garage Fridge",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 120,
+                "PSIdle": 120
+              },
+              {
+                "@type": "Heater",
+                "name": "Heater",
+                "isON": true,
+                "functionalityPercentage": 80,
+                "PSActive": 80,
+                "PSIdle": 30
+              }
+            ]
+          },
+          {
+            "@type": "Room",
+            "type": "KIDSROOM",
+            "name": "Kids room",
+            "temperature": 22,
+            "items": [
+              {
+                "@type": "DoorOpener",
+                "name": "Hall door opener",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 20,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Light",
+                "name": "Hall light",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "TV",
+                "name": "Kids TV",
+                "isON": false,
+                "functionalityPercentage": 70,
+                "PSActive": 30,
+                "PSIdle": 2
+              },
+              {
+                "@type": "Blinds",
+                "name": "Kids room blinds",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 20,
+                "PSIdle": 0
+              }
+            ]
+          },
+          {
+            "@type": "Room",
+            "type": "BATHROOM",
+            "name": "Bathroom level 1",
+            "temperature": 18,
+            "items": [
+              {
+                "@type": "Light",
+                "name": "Bathroom light level 1",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Blinds",
+                "name": "Bathroom blinds level 1",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 20,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Toilet",
+                "name": "Toilet 1",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 10,
+                "PSIdle": 0
+              },
+              {
+                "@type": "WashingMachine",
+                "name": "Washing machine",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 60,
+                "PSIdle": 10
+              },
+              {
+                "@type": "DoorOpener",
+                "name": "Bathroom level 1 door opener",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 20,
+                "PSIdle": 3
+              }
+            ]
+          }
+        ],
+        "level": 1
+      },
+      {
+        "@type": "Floor",
+        "rooms": [
+          {
+            "@type": "Room",
+            "type": "BATHROOM",
+            "name": "Bathroom level 2",
+            "temperature": 22,
+            "items": [
+              {
+                "@type": "Light",
+                "name": "Bathroom light level 2",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              },
+              {
+                "@type": "Toilet",
+                "name": "Toilet bathroom level 2",
+                "isON": false,
+                "functionalityPercentage": 100,
+                "PSActive": 10,
+                "PSIdle": 0
+              }
+            ]
+          },
+          {
+            "@type": "Room",
+            "type": "STORAGEROOM",
+            "name": "Storage room",
+            "temperature": 22,
+            "items": [
+              {
+                "@type": "Light",
+                "name": "Storage room light 2",
+                "isON": true,
+                "functionalityPercentage": 100,
+                "PSActive": 15,
+                "PSIdle": 0
+              }
+            ]
+          }
+        ],
+        "level": 2
+      }
+    ],
+    "beings": [
+      {
+        "@type": "Human",
+        "personalInfo": {
+          "@type": "HumanInfo",
+          "firstName": "Abraham",
+          "lastName": "Simpson",
+          "age": 70,
+          "type": "ELDER",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Human",
+        "personalInfo": {
+          "@type": "HumanInfo",
+          "firstName": "Homer",
+          "lastName": "Simpson",
+          "age": 40,
+          "type": "ADULT",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Human",
+        "personalInfo": {
+          "@type": "HumanInfo",
+          "firstName": "Marge",
+          "lastName": "Simpson",
+          "age": 30,
+          "type": "ADULT",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Human",
+        "personalInfo": {
+          "@type": "HumanInfo",
+          "firstName": "Lisa",
+          "lastName": "Simpson",
+          "age": 17,
+          "type": "CHILD",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Human",
+        "personalInfo": {
+          "@type": "HumanInfo",
+          "firstName": "Bart",
+          "lastName": "Simpson",
+          "age": 16,
+          "type": "CHILD",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Human",
+        "personalInfo": {
+          "@type": "HumanInfo",
+          "firstName": "Maggie",
+          "lastName": "Simpson",
+          "age": 2,
+          "type": "BABY",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Animal",
+        "personalInfo": {
+          "@type": "AnimalInfo",
+          "name": "Santa's Little Helper",
+          "age": 4,
+          "type": "DOG",
+          "breed": "Greyhound",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Animal",
+        "personalInfo": {
+          "@type": "AnimalInfo",
+          "name": "Snowball",
+          "age": 5,
+          "type": "CAT",
+          "breed": "Black Cat",
+          "alive": true
+        }
+      },
+      {
+        "@type": "Animal",
+        "personalInfo": {
+          "@type": "AnimalInfo",
+          "name": "Plopper",
+          "age": 5,
+          "type": "PIG",
+          "breed": "Talking Pig",
+          "alive": true
+        }
+      }
+    ]
+  }
+  
